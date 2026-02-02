@@ -6,3 +6,5 @@
 .langgraph_api/
 
 __pychache__
+
+start_local.sh
